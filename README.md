@@ -5,7 +5,15 @@ Bendigo Bank API is a wrapper that allows you to access information about your b
 
 Installation
 ==============================================
-To install this wrapper use 
+To install this wrapper clone the respository with
+```
+git clone git@github.com:Trentr9/Bendigo-Bank-API.git
+```
+
+then navigate to the directory in the terminal and run
+```
+pip install .
+```
 
 Basic Usage
 ==============================================
